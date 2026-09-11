@@ -1,0 +1,38 @@
+FRUIT MACHINE
+Three matching fruits = 10 points. A pair = 3 points.
+
+ROUND 1
+      .--------------------------.
+      |       FRUIT MACHINE      |
+      |--------------------------|   O
+      |  CHERRY| LEMON | APPLE   |   |
+      |--------------------------|---+
+      |       [ SPIN AGAIN ]     |
+      '--------------------------'
+No match this round.
+Score: 0
+
+ROUND 2
+      .--------------------------.
+      |       FRUIT MACHINE      |
+      |--------------------------|   O
+      |  LEMON | APPLE | GRAPE   |   |
+      |--------------------------|---+
+      |       [ SPIN AGAIN ]     |
+      '--------------------------'
+No match this round.
+Score: 0
+
+ROUND 3
+      .--------------------------.
+      |       FRUIT MACHINE      |
+      |--------------------------|   O
+      |  APPLE | CHERRY| GRAPE   |   |
+      |--------------------------|---+
+      |       [ SPIN AGAIN ]     |
+      '--------------------------'
+No match this round.
+Score: 0
+
+Final score: 0 / 30
+Run again for another game.
