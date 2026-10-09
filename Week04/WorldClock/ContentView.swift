@@ -75,3 +75,7 @@ struct CitiesView: View {
         }
     }
 }
+
+#Preview{
+    ContentView()
+}

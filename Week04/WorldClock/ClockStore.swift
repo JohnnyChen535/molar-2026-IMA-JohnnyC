@@ -26,3 +26,7 @@ class ClockStore {
         selectedIDs.append(city.id)
     }
 }
+
+#Preview{
+    ContentView()
+}
