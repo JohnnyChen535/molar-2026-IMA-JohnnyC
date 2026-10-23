@@ -63,6 +63,8 @@ struct PixelImage {
                 var newY = y
 
                 // Use the same rule three times for every photo.
+                //reference: https://github.com/zhanxw/cat/blob/master/cat.py
+                //reference: https://molab.marimo.io/gallery/l/arnold-s-cat-map
                 for _ in 0..<3 {
                     if restore {
                         // Undo the column first, then the row.
